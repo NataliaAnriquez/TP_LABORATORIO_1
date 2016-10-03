@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1475452573 source:c:\users\natalia anriquez\documents\github\tp_laboratorio_1\tp-1-calculadora\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1475452293 c:\users\natalia anriquez\documents\github\tp_laboratorio_1\tp-1-calculadora\funciones.h
+
+1475457043 source:c:\users\natalia anriquez\documents\github\tp_laboratorio_1\tp-1-calculadora\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"funciones.h"
+
